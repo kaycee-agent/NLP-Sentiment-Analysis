@@ -5,7 +5,6 @@ name and link:
 • 20newsgroups dataset (A collection of 20,000 news items across 20 categories)
 • Available via Scikit-Learn Datasets API.
 • Subset the dataset to only the following two categories named as ’sci.med’ and ’comp.graphics’
-The preprocessing tasks are as follows:
 1) Preprocessing textual data to remove punctuation, stop-words 
 2) Implementing a bag-of-words feature representation for each text sample
 3) Implementing a TF-IDF feature representation for each text sample
